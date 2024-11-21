@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#121212</color>
+    <color name="black">#FF000000</color>
+    <color name="primaryColor">#FF6200EE</color>
+    <color name="secondaryColor">#FF03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Image_classification</string>
+    <style name="Base.Theme.Image_classification" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Image_classification" parent="Base.Theme.Image_classification"/>
+</resources>

@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color backgroundColor
+color black
+color primaryColor
+color secondaryColor
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id imageview
+id predictbrn
+id selectbrn
+id textview
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Image_classification
+style Theme.Image_classification
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
